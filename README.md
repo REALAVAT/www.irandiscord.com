@@ -2,17 +2,18 @@
 
 **[www.irandiscord.com](https://www.irandiscord.com)**
 
-سایت رسمی جامعهٔ دیسکورد ایران — لیست سرورها، آمار زنده، و داشبورد بات ایران دیسکورد.
+این سایت برای جمع کردن سرورهای دیسکورد ایرانی در یک جا ساخته شده؛ جایی برای پیدا کردن سرورها، دیدن وضعیت کلی کامیونیتی، و استفاده از ابزارهای مرتبط با بات ایران دیسکورد.
 
 ---
 
-## چه چیزهایی روی سایت هست
+## روی سایت چه چیزهایی پیدا می‌کنی؟
 
-- **لیست سرورها** — سرورهای ایرانی با دسته‌بندی، لینک دعوت و نشان لایو  
-- **آمار زنده** — تعداد اعضا، آنلاین‌ها و وضعیت بات‌ها  
-- **داشبورد بات** — مدیریت اعلان، گیواوی و پنل نقش برای سرور خودت  
-- **دنبال کردن استریمر** — اعلان ایمیلی اختیاری برای لایو یا آپلود  
-- **ثبت سرور** — درخواست اضافه شدن به فهرست عمومی  
+- **لیست سرورها** برای پیدا کردن سرورهای ایرانی در موضوع‌های مختلف
+- **آمار کلی** برای دیدن وضعیت اعضا و سرورها
+- **داشبورد بات** برای مدیریت اعلان‌ها، گیواوی و پنل نقش
+- **بخش ثبت سرور** اگر بخواهی سرورت هم به فهرست اضافه شود
+
+این سایت بیشتر برای این ساخته شده که پیدا کردن سرورها و مدیریت امکانات مرتبط با آن‌ها ساده‌تر و جمع‌وجورتر باشد.
 
 | | |
 |---|---|
@@ -25,9 +26,9 @@
 
 ## دربارهٔ این مخزن
 
-این مخزن صفحهٔ عمومی گیت‌هاب و ریدایرکت به سایت است. وب‌سایت زنده روی **www.irandiscord.com** اجرا می‌شود. با باز کردن `index.html` به سایت منتقل می‌شوید.
+این مخزن فقط نسخهٔ عمومی گیت‌هاب برای سایت است. خود سایت روی **www.irandiscord.com** در دسترس است و `index.html` اینجا فقط به همان آدرس ریدایرکت می‌کند.
 
-سورس بات: [REALAVAT/IRAN-DISCORD](https://github.com/REALAVAT/IRAN-DISCORD)
+مخزن عمومی بات: [REALAVAT/IRAN-DISCORD](https://github.com/REALAVAT/IRAN-DISCORD)
 
 ---
 
@@ -37,15 +38,16 @@
 
 **[www.irandiscord.com](https://www.irandiscord.com)**
 
-Official site for the Iranian Discord community — server directory, live stats, and the IRAN DISCORD bot dashboard.
+This site is meant to bring Iranian Discord servers together in one place. It gives people a simple way to discover communities, check general activity, and use the tools connected to the IRAN DISCORD bot.
 
-### What’s on the site
+### What you’ll find on the site
 
-- **Server directory** — Iranian Discord servers by category, with invite links and live badges where available  
-- **Live stats** — member totals, online counts, and bot status  
-- **Bot dashboard** — manage notifications, giveaways, and role panels for your own server  
-- **Streamer follow** — optional email alerts when a listed streamer goes live or uploads  
-- **Server submission** — request to add a server to the public directory  
+- **A server directory** for browsing Iranian Discord communities
+- **General stats** to get a quick feel for community activity
+- **A bot dashboard** for managing alerts, giveaways, and role panels
+- **A server submission section** if you want your server listed
+
+The goal is to keep everything easy to browse and easy to use, without making the site feel too heavy or complicated.
 
 | | |
 |---|---|
@@ -56,6 +58,6 @@ Official site for the Iranian Discord community — server directory, live stats
 
 ### About this repository
 
-This repo is the public landing stub for GitHub. The live website runs on **www.irandiscord.com**. Opening `index.html` here redirects you to the site.
+This repo is only the public GitHub stub for the site. The live version is on **www.irandiscord.com**, and the `index.html` here simply redirects there.
 
-Bot source: [REALAVAT/IRAN-DISCORD](https://github.com/REALAVAT/IRAN-DISCORD)
+Public bot repo: [REALAVAT/IRAN-DISCORD](https://github.com/REALAVAT/IRAN-DISCORD)
